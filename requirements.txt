@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langgraph
+openai
+ddgs
+requests
+pydantic
